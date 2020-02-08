@@ -1,0 +1,7 @@
+[cols="h,n,n"]
+|===
+| Authors 2+| {authors}
+3+| Versions 
+| 0.1 | 01/01/2020 |  first version
+| 0.2 | 01/02/2020 | minor corrections
+|===

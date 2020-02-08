@@ -1,0 +1,5 @@
+{set:cellbgcolor:lightgrey}
+|===
+| image:common/warning.svg[Notes,50,50] Notes: {param}
+|===
+{set:cellbgcolor!}

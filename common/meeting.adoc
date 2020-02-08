@@ -1,0 +1,6 @@
+[cols="h,n"]
+|===
+| Meeting Date | {meetingDate}
+| Authors | {author}
+| Participants | {participants}
+|===
