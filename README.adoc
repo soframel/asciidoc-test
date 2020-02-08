@@ -1,0 +1,5 @@
+= Asciidoc test page
+
+Examples pages: 
+link:article.adoc[Article]
+link:book.adoc[Book]
